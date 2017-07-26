@@ -11,3 +11,4 @@ A list of things often forgotten before site launch
 - [ ] Forms submitting content properly, confirmation and error messages styled  
 - [ ] 301 redirects in place as needed  
 - [ ] XML sitemap generated  
+- [ ] Database scrubbed for dev URLs
