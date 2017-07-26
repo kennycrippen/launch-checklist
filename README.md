@@ -12,3 +12,4 @@ A list of things often forgotten before site launch
 - [ ] 301 redirects in place as needed  
 - [ ] XML sitemap generated  
 - [ ] Database scrubbed for dev URLs
+- [ ] SEO titles and meta descriptions in place
