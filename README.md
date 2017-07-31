@@ -13,3 +13,4 @@ A list of things often forgotten before site launch
 - [ ] XML sitemap generated  
 - [ ] Database scrubbed for dev URLs
 - [ ] SEO titles and meta descriptions in place
+- [ ] WP default show 10 posts not affecting post display
